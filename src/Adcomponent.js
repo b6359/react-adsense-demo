@@ -18,8 +18,8 @@ const AdComponent = () => {
       ref={adRef}
       className="adsbygoogle"
       style={{ display: "block" }}
-      data-ad-client="ca-pub-6750010916802163"
-      data-ad-slot={"3163093922"}
+      data-ad-client="YOUR_CLIENT_ID"
+      data-ad-slot={"SLOT_ID"}
       data-ad-format="auto"
       data-full-width-responsive="true"
     ></ins>
